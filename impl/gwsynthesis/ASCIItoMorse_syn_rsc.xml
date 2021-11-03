@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" Register="49" Alu="47" Lut="29">
-    <SubModule name="b0" Register="10" Alu="9" Lut="1" Bsram="1"/>
-    <SubModule name="c0" Bsram="1"/>
-    <SubModule name="rx0" Register="87" Alu="27" Lut="105"/>
-    <SubModule name="tx0" Register="47" Lut="93"/>
-</Module>
