@@ -10,6 +10,8 @@ to the host. The UART is currently configured to use a 9600 Baud rate with 1 sto
 Refer to [UART setup for Tang Nano](https://github.com/trabucayre/openFPGALoader)) as the onboard 
 CH552T microcontroller needs to be re-flashed for UART to work.
 
+The charts I used for the ASCII to morse conversion table are in the `Docs` folder
+
 ## Synthesis
 
 Can be synthesized using the Gowin IDE, by opening the ASCIItoMorse.gprj file or manually importing
