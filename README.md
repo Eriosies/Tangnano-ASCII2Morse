@@ -2,7 +2,8 @@
 
 Translates an ASCII input from a UART interface to Morse code. Symbols recieved by UART RX module
 is sent to a buffer and is then converted to binary representation which is read and output using 
-the Tang nano's onboard LEDs. After the symbol has been output in Morse it is then sent via UART TX 
+the Tang nano's onboard LEDs.
+After the symbol has been output in Morse it is then sent via UART TX 
 to the host. The UART is currently configured to use a 9600 Baud rate with 1 stop bit and no parity.
 
 Refer to [UART setup for Tang Nano](https://github.com/trabucayre/openFPGALoader)) as the onboard 
@@ -19,9 +20,12 @@ dual-purpose pins using those.
 
 ## Usage
 
-Once flashed the Tang Nano can be interfaced with by using serial console such as PuTTY or the terminal or any UART module.
-Symbols recieved will be transmitted back to host device after the morse sequence for that symbol has finished.
-The UART RX buffer can hold 1024 bytes so up to 1024 symbols can be sent before the buffer starts to overwrite itself.
+Once flashed the Tang Nano can be interfaced with by using serial console such as PuTTY or the terminal 
+or any UART module.
+Symbols recieved will be transmitted back to host device after the morse sequence for 
+that symbol has finished.
+The UART RX buffer can hold 1024 bytes so up to 1024 symbols can be sent before the buffer starts to 
+overwrite itself.
 
 
 ## Resources
