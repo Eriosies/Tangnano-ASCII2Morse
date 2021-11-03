@@ -27,6 +27,7 @@ Symbols recieved will be transmitted back to host device after the morse sequenc
 that symbol has finished.
 The UART RX buffer can hold 1024 bytes so up to 1024 symbols can be sent before the buffer starts to 
 overwrite itself.
+The board can be reset at anytime by pressing the A button.
 
 
 ## Resources
