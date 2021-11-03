@@ -1,0 +1,44 @@
+[
+ {
+  "InstFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+    "InstLine" : 86,
+    "InstName" : "b0",
+    "ModuleFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/buffer.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "buffer"
+   },
+   {
+    "InstFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+    "InstLine" : 96,
+    "InstName" : "c0",
+    "ModuleFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Convertor.v",
+    "ModuleLine" : 21,
+    "ModuleName" : "convertor"
+   },
+   {
+    "InstFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+    "InstLine" : 104,
+    "InstName" : "rx0",
+    "ModuleFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/wbuart32/rxuart.v",
+    "ModuleLine" : 120,
+    "ModuleName" : "rxuart"
+   },
+   {
+    "InstFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/Top.v",
+    "InstLine" : 113,
+    "InstName" : "tx0",
+    "ModuleFile" : "C:/Users/Dems1/Documents/Workspaces/Tang/Projects/ASCIItoMorse/src/wbuart32/txuart.v",
+    "ModuleLine" : 99,
+    "ModuleName" : "txuart"
+   }
+  ]
+ }
+]

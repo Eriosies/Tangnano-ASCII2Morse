@@ -1,0 +1,17 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1N-1" pn="GW1N-LV1QN48C6/I5">gw1n1-004</Device>
+    <FileList>
+        <File path="src/Convertor.v" type="file.verilog" enable="1"/>
+        <File path="src/Top.v" type="file.verilog" enable="1"/>
+        <File path="src/addresser.v" type="file.verilog" enable="0"/>
+        <File path="src/buffer.v" type="file.verilog" enable="1"/>
+        <File path="src/wbuart32/rxuart.v" type="file.verilog" enable="1"/>
+        <File path="src/wbuart32/txuart.v" type="file.verilog" enable="1"/>
+        <File path="src/ASCIItoMorse.cst" type="file.cst" enable="1"/>
+        <File path="src/ASCIItoMorse.sdc" type="file.sdc" enable="1"/>
+    </FileList>
+</Project>

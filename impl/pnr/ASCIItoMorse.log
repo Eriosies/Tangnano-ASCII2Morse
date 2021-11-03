@@ -1,0 +1,94 @@
+Reading netlist file: "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\gwsynthesis\ASCIItoMorse.vg"
+Parsing netlist file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\gwsynthesis\ASCIItoMorse.vg" completed
+WARN  (PA1001) : Dangling net 'n86_1_SUM'(source:'n86_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n87_1_SUM'(source:'n87_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n88_1_SUM'(source:'n88_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n89_1_SUM'(source:'n89_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n90_1_SUM'(source:'n90_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n91_1_SUM'(source:'n91_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n92_1_SUM'(source:'n92_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n93_1_SUM'(source:'n93_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n94_1_SUM'(source:'n94_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n95_1_SUM'(source:'n95_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n110_1_SUM'(source:'n110_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n111_1_SUM'(source:'n111_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'n112_1_SUM'(source:'n112_s0') in module 'top' has no destination
+WARN  (PA1001) : Dangling net 'DO[8]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[9]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[10]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[11]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[12]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[13]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[14]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[15]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[16]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[17]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[18]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[19]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[20]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[21]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[22]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[23]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[24]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[25]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[26]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[27]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[28]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[29]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[30]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[31]'(source:'memory_memory_0_0_s') in module 'buffer' has no destination
+WARN  (PA1001) : Dangling net 'DO[9]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[10]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[11]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[12]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[13]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[14]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[15]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[16]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[17]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[18]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[19]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[20]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[21]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[22]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[23]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[24]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[25]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[26]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[27]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[28]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[29]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[30]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[31]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[32]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[33]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[34]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+WARN  (PA1001) : Dangling net 'DO[35]'(source:'morse_table_morse_table_0_0_s') in module 'convertor' has no destination
+Processing netlist completed
+Reading constraint file: "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\src\ASCIItoMorse.cst"
+WARN  (CT1122) : 'uart_tx' will be placed to RECONFIGN pin according to constraint, and then the signal may lead to gwCONFIG programming directly
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\pnr\ASCIItoMorse.power.html" completed
+Generate file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\pnr\ASCIItoMorse.pin.html" completed
+Generate file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\pnr\ASCIItoMorse.rpt.html" completed
+Generate file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\pnr\ASCIItoMorse.rpt.txt" completed
+Generate file "C:\Users\Dems1\Documents\Workspaces\Tang\Projects\ASCIItoMorse\impl\pnr\ASCIItoMorse.tr.html" completed
+Wed Nov 03 23:16:57 2021
+
