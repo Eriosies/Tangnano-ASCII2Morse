@@ -13,8 +13,10 @@ CH552T microcontroller needs to be re-flashed for UART to work.
 
 Can be synthesized using the Gowin IDE, by opening the ASCIItoMorse.gprj file or manually importing
 the .v module files to an existing project.
+
 For the UART to work the `Done` and `RECONFIG_N` pins must be configured as dual-purpose, this can 
 be done in Gowin IDE under `Project` / `Configuration` / `Place & Route` / `General` / `Dual-Purpose Pin`.
+
 Once synthesized and routed it can be flashed using the Gowin programmer.
 Using yowasp to synthesise and OpenFPGAloader to flash may work also but I am unsure on how to set 
 dual-purpose pins using those.
@@ -23,10 +25,13 @@ dual-purpose pins using those.
 
 Once flashed the Tang Nano can be interfaced with by using serial console such as PuTTY or the terminal 
 or any UART module.
+
 Symbols recieved will be transmitted back to host device after the morse sequence for 
 that symbol has finished.
+
 The UART RX buffer can hold 1024 bytes so up to 1024 symbols can be sent before the buffer starts to 
 overwrite itself.
+
 The board can be reset at anytime by pressing the A button.
 
 
