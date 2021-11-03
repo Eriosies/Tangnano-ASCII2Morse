@@ -5,7 +5,7 @@ is sent to a buffer and is then converted to binary representation which is read
 the Tang nano's onboard LEDs. After the symbol has been output in Morse it is then sent via UART TX 
 to the host. The UART is currently configured to use a 9600 Baud rate with 1 stop bit and no parity.
 
-Refer to UART setup for Tang Nano in the resources at the bottom as the onboard CH552T microcontroller 
+Refer to `UART setup for Tang Nano` in the resources at the bottom as the onboard CH552T microcontroller 
 needs to be flashed for UART to work.
 
 ## Synthesis
