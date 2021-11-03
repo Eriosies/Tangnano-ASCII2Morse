@@ -13,7 +13,7 @@ CH552T microcontroller needs to be re-flashed for UART to work.
 
 Can be synthesized using the Gowin IDE. 
 For the UART to work the `Done` and `RECONFIG_N` pins must be configured as dual-purpose, this can 
-be done in Gowin IDE under `Project`/`Configuration`/`Place & Route`/`General`/`Dual-Purpose Pin`.
+be done in Gowin IDE under `Project` / `Configuration` / `Place & Route` / `General` / `Dual-Purpose Pin`.
 Once synthesized and routed it can be flashed using the Gowin programmer.
 Using yowasp to synthesise and OpenFPGAloader to flash may work also but I am unsure on how to set 
 dual-purpose pins using those.
