@@ -11,7 +11,8 @@ CH552T microcontroller needs to be re-flashed for UART to work.
 
 ## Synthesis
 
-Can be synthesized using the Gowin IDE. 
+Can be synthesized using the Gowin IDE, by opening the ASCIItoMorse.gprj file or manually importing
+the .v module files to an existing project.
 For the UART to work the `Done` and `RECONFIG_N` pins must be configured as dual-purpose, this can 
 be done in Gowin IDE under `Project` / `Configuration` / `Place & Route` / `General` / `Dual-Purpose Pin`.
 Once synthesized and routed it can be flashed using the Gowin programmer.
